@@ -8,9 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'During my absence I should leave my friends unconscious of the existence of their enemy and unprotected from his attacks, exasperated as he might be by my departure.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'There is some fascination, surely, when I am moved by the mere presence of such an one, even lying as she lay in a tomb fretted with age and heavy with the dust of centuries, though there be that horrid odour such as the lairs of the Count have had.',
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
