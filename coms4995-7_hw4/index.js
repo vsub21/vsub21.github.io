@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'During my absence I should leave my friends unconscious of the existence of their enemy and unprotected from his attacks, exasperated as he might be by my departure.',
+      'Enter Barnardo and Francisco two Centinels.',
   'example2':
-      'There is some fascination, surely, when I am moved by the mere presence of such an one, even lying as she lay in a tomb fretted with age and heavy with the dust of centuries, though there be that horrid odour such as the lairs of the Count have had.',
+      'Sixteen years had Miss Taylor been in Mr. Woodhouse's family, less as a governess than a friend, very fond of both daughters, but particularly of Emma.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Some say the whale can't open his mouth, but that is a fable.',
   'example4':
-      'These reflections just here are occasioned by the circumstance that after we were all seated at the table, and I was preparing to hear some good stories about whaling; to my no small surprise, nearly every man maintained a profound silence.'
+      'The flying ship of Professor Lucifer sang through the skies like a silver arrow; the bleak white steel of it, gleaming in the bleak blue emptiness of the evening.'
 };
 
 function status(statusText) {
