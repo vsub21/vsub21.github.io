@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Enter Barnardo and Francisco two Centinels.',
   'example2':
-      'Sixteen years had Miss Taylor been in Mr. Woodhouse's family, less as a governess than a friend, very fond of both daughters, but particularly of Emma.',
+      'The danger, however, was at present so unperceived, that they did not by any means rank as misfortunes with her.',
   'example3':
       'Some say the whale can't open his mouth, but that is a fable.',
   'example4':
