@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'The danger, however, was at present so unperceived, that they did not by any means rank as misfortunes with her.',
   'example3':
-      'Some say the whale can't open his mouth, but that is a fable.',
+      'Some say the whale cannot open his mouth, but that is a fable.',
   'example4':
       'The flying ship of Professor Lucifer sang through the skies like a silver arrow; the bleak white steel of it, gleaming in the bleak blue emptiness of the evening.'
 };
